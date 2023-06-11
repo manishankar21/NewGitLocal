@@ -1,4 +1,0 @@
-Hello this is new test file
-
-
-I am making changes at master.
